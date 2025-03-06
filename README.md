@@ -28,7 +28,7 @@ Users can control playback with play/pause/reset buttons, adjust animation speed
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/alpha-economic-visualizer.git
+   git clone https://github.com/Alpha4-Labs/alpha-visualizer.git
    cd alpha-economic-visualizer
    ```
 
