@@ -29,7 +29,7 @@ Users can control playback with play/pause/reset buttons, adjust animation speed
 
    ```bash
    git clone https://github.com/Alpha4-Labs/alpha-visualizer.git
-   cd alpha-economic-visualizer
+   cd alpha-visualizer
    ```
 
 2. Create a virtual environment:
